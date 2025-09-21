@@ -92,7 +92,8 @@ strong {
 h2 {
   margin: 0;
   font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 22px;
 }
 
